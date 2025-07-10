@@ -71,10 +71,3 @@ The main model used in this project is **LSTM (Long Short-Term Memory)**, a type
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like to add a link to a demo, Google Colab badge, or embed sample outputs in the README!
